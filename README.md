@@ -23,26 +23,28 @@ Bom, agora terá um passo a passo para configurar uma AI de indexação e consul
   
   * Uma **conta de armazenamento** com contêineres de blobs
 
-➡Passo a passo para a criação dos recursos necessários e carregamento de documentos que iremos ultilizar para teste: 
+➡Passo a passo para a criação dos recursos necessários e carregamento de documentos que iremos ultilizar para teste: [Recursos do Azure necessários e Carregar documentos para o armazenamento do Azure](https://github.com/R-JoiceAraujo/tutorial-servi-oAI) 
 
 ### Indexar os documentos
 
 #### Depois de ter os documentos armazenados, você pode usar o Azure AI Search para extrair insights dos documentos.
 
-➡Passo a passo para indexar os documentos:
+➡Passo a passo para indexar os documentos: [Indexar os documentos](https://github.com/R-JoiceAraujo/tutorial-servi-oAI/blob/main/indexe-documentos.md)
 
 ### Consultar o índice
 
 #### Use o Search Explorer para escrever e testar consultas. Uma maneira fácil de validar a qualidade do seu índice de pesquisa. Você pode usar o Search Explorer para escrever consultas e revisar resultados em JSON.
 
-➡Passo a passo para Consultar o índice:
+➡Passo a passo para Consultar o índice: [Consultar o índice](https://github.com/R-JoiceAraujo/tutorial-servi-oAI/blob/main/consultar-indice.md)
 
 ### Revise o armazenamento de conhecimento
 
 #### Vamos ver o poder do armazenamento de conhecimento em ação.
 
-➡Passo a passo para Revisar o armazenamento de conhecimento:
+➡Passo a passo para Revisar o armazenamento de conhecimento: [Revise o armazenamento de conhecimento](https://github.com/R-JoiceAraujo/tutorial-servi-oAI/blob/main/armazenamento-conhecimento.md)
 
+
+# Bom Estudo a todos e nos vemos nos próximos passo a passos de criação de AI!! 😉
 
 
 
